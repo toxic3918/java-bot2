@@ -1,0 +1,20 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "",
+  "index": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "professor",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.10.0",
+    "cheerio": "^1.0.0-rc.10",
+    "command": "^0.0.5",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "requset": "^0.0.1-security",
+    "ytdl-core": "^4.9.2"
+  }
+}
